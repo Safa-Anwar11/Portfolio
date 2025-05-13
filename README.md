@@ -122,22 +122,6 @@ Orange Coding Academy | Feb 2024 – Aug 2024
 
 ---
 
-## 🧪 PROJECTS
-
-**Harfaa Website – Automation Testing**  
-Jan 2025 – Mar 2025  
-- Built automated test scripts using Selenium WebDriver (Java/C#) for login, search, and form submission.
-
-**YU University Services Assistant – Graduation Project**  
-May 2021 – Dec 2021  
-- Developed a voice-enabled assistant with Alexa using JavaScript for university info access.
-
-**E-commerce Store for Care Services**  
-Mar 2022  
-- Developed a care service website using PHP and MySQL.
-
----
-
 ## 📚 COURSES
 
 - Advanced QA Course | AppTrainers | Dec 2024 – Present  
