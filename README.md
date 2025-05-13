@@ -91,3 +91,56 @@ https://github.com/Safa-Anwar11/SW-Quality-Assurance-/tree/main/Selenium/Seleniu
 
 ---
 
+
+💼 EXPERIENCE
+
+**Quality Assurance Specialist Intern**  
+Digiskills-AppTrainers | Sep 2024 – Present  
+- Learned and applied QA fundamentals, SDLC/STLC.  
+- Wrote test cases and bug reports using Jira.  
+- Performed API testing using Postman and Fiddler.  
+- Automated tests using Selenium and Ghost Inspector.
+
+**QA Intern**  
+Tahaluf Al Emarat Technical Solutions | Oct 2024 – Apr 2025  
+- Conducted manual testing and defect tracking.  
+- Collaborated with Agile teams and used Selenium for UI testing.
+
+**QA Intern**  
+IQLimits | Aug 2024 – Oct 2024  
+- Wrote test cases and reported bugs for an e-commerce platform.  
+- Utilized Jira for task management.
+
+**QA Trainee & Customer Service**  
+Extensya | Feb 2024 – Apr 2025  
+- Gained hands-on QA training with DivOps and Agile teams.  
+- Supported QA activities and customer queries.
+
+**Full Stack Trainee**  
+Orange Coding Academy | Feb 2024 – Aug 2024  
+- Built full-stack applications using PHP, HTML, CSS, and JS.
+
+---
+
+🧪 PROJECTS
+
+**Harfaa Website – Automation Testing**  
+Jan 2025 – Mar 2025  
+- Built automated test scripts using Selenium WebDriver (Java/C#) for login, search, and form submission.
+
+**YU University Services Assistant – Graduation Project**  
+May 2021 – Dec 2021  
+- Developed a voice-enabled assistant with Alexa using JavaScript for university info access.
+
+**E-commerce Store for Care Services**  
+Mar 2022  
+- Developed a care service website using PHP and MySQL.
+
+---
+
+📚 COURSES & TRAINING
+
+- Advanced QA Course | AppTrainers | Dec 2024 – Present  
+- Quality Assurance Course | Tahaluf Al Emarat | Oct 2024 – Apr 2025  
+- TOT Training & Leadership | Jethro Consulting | 2019 – 2020  
+- Front-End Web Dev | EU-Yarmouk University | Sep 2019 – Feb 2020
