@@ -92,7 +92,7 @@ https://github.com/Safa-Anwar11/SW-Quality-Assurance-/tree/main/Selenium/Seleniu
 ---
 
 
-💼 EXPERIENCE
+## 💼 EXPERIENCE
 
 **Quality Assurance Specialist Intern**  
 Digiskills-AppTrainers | Sep 2024 – Present  
@@ -122,7 +122,7 @@ Orange Coding Academy | Feb 2024 – Aug 2024
 
 ---
 
-🧪 PROJECTS
+## 🧪 PROJECTS
 
 **Harfaa Website – Automation Testing**  
 Jan 2025 – Mar 2025  
@@ -138,7 +138,7 @@ Mar 2022
 
 ---
 
-📚 COURSES & TRAINING
+## 📚 COURSES & TRAINING
 
 - Advanced QA Course | AppTrainers | Dec 2024 – Present  
 - Quality Assurance Course | Tahaluf Al Emarat | Oct 2024 – Apr 2025  
