@@ -138,7 +138,7 @@ Mar 2022
 
 ---
 
-## 📚 COURSES & TRAINING
+## 📚 COURSES
 
 - Advanced QA Course | AppTrainers | Dec 2024 – Present  
 - Quality Assurance Course | Tahaluf Al Emarat | Oct 2024 – Apr 2025  
